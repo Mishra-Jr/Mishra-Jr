@@ -3,7 +3,7 @@
 </p>
 ## Hello World! I'm Aniket. 👋
 
-[cite_start]I'm a Robotics Engineer fresh from my Master's program in Robotics and Autonomous Systems at Arizona State University, and I'm on a mission to build the future of industrial automation. My passion lies at the intersection of **robotic systems**, **intelligent software**, and **real-world problem-solving**.
+I'm a Robotics Engineer fresh from my Master's program in Robotics and Autonomous Systems at Arizona State University, and I'm on a mission to build the future of industrial automation. My passion lies at the intersection of **robotic systems**, **intelligent software**, and **real-world problem-solving**.
 
 My ultimate goal is to launch a robotics company in India that makes warehouse automation accessible and efficient through the power of **digital twins** and **simulation-first** deployment.
 
