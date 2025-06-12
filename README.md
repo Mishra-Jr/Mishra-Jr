@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/Mishra-Jr/Mishra-Jr/blob/main/MISHR%20(1).png?raw=true" width="100%" alt="Aniket Mishra Banner">
+</p>
+## Hello World! I'm Aniket. 👋
 
-<!--
-**Mishra-Jr/Mishra-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]I'm a Robotics Engineer fresh from my Master's program in Robotics and Autonomous Systems at Arizona State University, and I'm on a mission to build the future of industrial automation. My passion lies at the intersection of **robotic systems**, **intelligent software**, and **real-world problem-solving**.
 
-Here are some ideas to get you started:
+My ultimate goal is to launch a robotics company in India that makes warehouse automation accessible and efficient through the power of **digital twins** and **simulation-first** deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🤖 Currently building my skills in **NVIDIA Isaac Sim** and **ROS2**.
+* 🧠 Exploring new frontiers in **AI-driven perception** and **SLAM**.
+* 🤝 Open to connecting with mentors, collaborators, and fellow innovators.
+
+Let's build something amazing together.
